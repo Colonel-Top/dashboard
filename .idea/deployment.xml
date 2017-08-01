@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="WPI Office (1)">
+    <serverData>
+      <paths name="WPI Office (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="dashboard" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

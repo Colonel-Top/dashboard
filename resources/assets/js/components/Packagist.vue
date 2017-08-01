@@ -4,7 +4,7 @@
             <h1>Package Downloads</h1>
             <ul>
                 <li class="statistic">
-                    <span class="statistic__label">24 hours</span>
+                    <span class="statistic__label">24 hours+</span>
                     <span class="statistic__count">{{ formatNumber(daily) }}</span>
                 </li>
                 <li class="statistic">
